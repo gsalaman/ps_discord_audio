@@ -12,4 +12,5 @@ R2 is GND
 S  is Mic
 ```
 
-
+Simple Audio Mix:  a bunch of 470 ohm resistors:
+<img width="793" alt="Screen Shot 2021-03-04 at 4 13 15 PM" src="https://user-images.githubusercontent.com/43499190/110043543-cb5ad180-7d04-11eb-9ea3-f7a5ee9c64b0.png">
