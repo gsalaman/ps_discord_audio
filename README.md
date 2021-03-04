@@ -28,3 +28,20 @@ Want Mute Switch.
 
 And, if we're doing this, I should have cool lights...an ATTINY85 and a couple LEDs.
 
+### Proto parts needed
+* TRRS Female connectors.  Have 7.
+* Cable Parts:
+  * TRRS Male Connectors.  If I churn out 10 boxes, I need 20 cables or 40 connectors. Start smaller.
+  * Heat shrink
+  * 4-wire cabyle itself
+  * What's the cost effectiveness?
+* LM386.   2 for proto.  JLCPCB for after that.
+* Some sort of Mute Switch.  Can use DPST for starters; 10 others for production.
+* 2 Dual-Gang pots for Proto.  10 for production.
+* 1000 uF cap x2
+* .1 uF cap x4
+* 10k resistor x2
+* Have the 470 resistors for signal summming.
+* 470 pF Cap x2
+* 100 uF Electrolytic cap x2
+* 10 uF Electrolytic cap x4
