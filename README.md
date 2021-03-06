@@ -36,7 +36,7 @@ And, if we're doing this, I should have cool lights...an ATTINY85 and a couple L
   * 4-wire cabyle itself
   * What's the cost effectiveness?
 * LM386.   2 for proto.  JLCPCB for after that.
-* Some sort of Mute Switch.  Can use DPST for starters; 10 others for production.
+* Some sort of Mute Switch.  Can use SPDT for starters; 10 others for production.
 * 2 Dual-Gang pots for Proto.  10 for production.
 * 1000 uF cap x2
 * .1 uF cap x4
@@ -45,3 +45,16 @@ And, if we're doing this, I should have cool lights...an ATTINY85 and a couple L
 * 470 pF Cap x2
 * 100 uF Electrolytic cap x2
 * 10 uF Electrolytic cap x4
+
+## Test #1
+Build 1 of the "simple" amplifier circuit.  How does it sound?  Should be popping etc.  Gain of 20 okay?
+
+## Test #2
+Now make 2 of them, chained together with the 470 ohms.  Seperate gain works?  Can I drive both off one batt?  Can I move the 1000uF cap to *after* the sum?
+
+## Test #3
+More advanced circuit...build up both.  Significant sound quality increase?  
+
+## Test #4
+4 circuits, mixing all 4 channels.  Dual Pots.  Can I still get away with one batt?
+
