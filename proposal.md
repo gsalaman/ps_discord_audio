@@ -12,3 +12,5 @@ However, cross-play has been announced, and will arrive in September, allowing P
 
 The problem is that there is no cross-play voice chat functionality (except for the limited game-chat).  My proposal is to make a box that allows a Playstation player to 
 hook into Discord, mixing the audio from both Discord and the Game into the player's headset.
+
+![Discord Box Block Diagram](https://user-images.githubusercontent.com/43499190/122586510-0239c680-d01a-11eb-942d-d9af317a9647.jpg)
