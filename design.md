@@ -61,6 +61,9 @@ https://www.amazon.com/gp/product/B07QS8K8T2/ref=ppx_yo_dt_b_asin_title_o09_s00?
 
 Note that the ATTINY does not have pull-up resistors on it's input, so I've got R5 on the board for that purpose.
 
+#### LED
+I'm using a custom board with a single WS2812 LED.  It's able to be driven by the coin cell and the ATTINY.  The WS2812 will let me change colors on the LED.
+
 ### PCB Layout
 The final PCB layout is as follows:
 <img width="1009" alt="Screen Shot 2021-07-09 at 9 51 16 AM" src="https://user-images.githubusercontent.com/43499190/125105089-4f4e0d00-e09b-11eb-9d6f-4b0acd7992e0.png">
@@ -68,5 +71,38 @@ The final PCB layout is as follows:
 Note I'm only going Through-Hole parts here; no SMT assembly from the PCB vendor.
 
 ## Software
+The ATTINY will have two modes of operation:
+* When the mute switch is active (Muted), it'll blink the LED red.
+* When the mute switch is not active (Not Muted), it'll cycle the LED through colors.
+
+I'll be using the Arduino environment to program the ATTINY85.
+
+### High Level Software Overview
+I'll use Adafruit's NeoPixel library to program the LED.  
+
+I'm going to use a global "tick_number" indicator to count time.   
+
+I'll have globals for the Red/Green/Blue pixel values for when we're cycling through colors.  
+
+The "setup" function will set up the  pins for Mute and LED.  
+
+The "loop" function will read the Mute button, and choose between the following functions:
+* Flash the LED red (muted)
+* cycle through colors (non-muted)
+
+"Loop" will also need to keep track of the last state of the mute button.  This is because when we first turn OFF mute (Un-mute), we want the cycle colors to reset to a known starting point.
+
+### Muted Operation
+We'll use the "tick_number" and a modulus funcition to alternate between setting the LED to all red or off.  I'll experiement with time values to see what looks good.
+
+### Un-Muted Operatoin
+This one will be a little tricker.  Here's the cycle algorithm:
+```
+Start with the LED Blue.
+Step 1: Slowly decrease the Blue RGB value and increase the Green RGB value until the LED is all Green.
+Step 2: Slowly decrease the Green RGB value and increase the Red RGB value until the LED is all Red.
+Step 3:  Slowly Decrease the Red RGB value and increase the Blue RGB value until the LED is all Blue.
+```
+To determine which "step" we're on, I'll cycle the tick number.  Since each color value is going from 255 to 0 (or vice versa), I have 256 "ticks" in each step.
 
 ## Plastics
