@@ -106,3 +106,11 @@ Step 3:  Slowly Decrease the Red RGB value and increase the Blue RGB value until
 To determine which "step" we're on, I'll cycle the tick number.  Since each color value is going from 255 to 0 (or vice versa), I have 256 "ticks" in each step.
 
 ## Plastics
+I'm going to design the case in three pieces:
+* The "shell" will be the walls and the top, with holes for switches, heat-sets (to attach the bottom), jacks and the ghost.  I'll label the Jacks via embossed letters.
+* The "bottom" will be a simple rectange that gets screwed onto the bottom of the case (and gives the user access to replacing the battery).
+* The "Ghost" will be a contrasting color, modelled after destiny's Ghost.  I'll use a seperate piece of diffusing acrylic (laser-cut) to "spread out" the light of the led.  This will be glued onto the top.
+
+Onshape files can be found here:
+https://cad.onshape.com/documents/8eac8258773643f40666c139/w/5a93e26a0a6b1984f3ee80b1/e/b21e37a20e72b8d13801b5df
+
