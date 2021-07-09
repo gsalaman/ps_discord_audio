@@ -64,6 +64,9 @@ Note that the ATTINY does not have pull-up resistors on it's input, so I've got 
 
 ### PCB Layout
 The final PCB layout is as follows:
+<img width="1009" alt="Screen Shot 2021-07-09 at 9 51 16 AM" src="https://user-images.githubusercontent.com/43499190/125105089-4f4e0d00-e09b-11eb-9d6f-4b0acd7992e0.png">
+
+Note I'm only going Through-Hole parts here; no SMT assembly from the PCB vendor.
 
 ## Software
 
