@@ -10,7 +10,6 @@ Since I'm making multiple boxes, I'm going to do the hardware board as a custom 
 * Microphone Routing and Mute Switch
 
 ### Overall Schematic
-The overall schematic is show below:
 <img width="525" alt="Screen Shot 2021-07-09 at 9 18 10 AM" src="https://user-images.githubusercontent.com/43499190/125100867-d1880280-e096-11eb-8e85-d1c7bcaf3b77.png">
 
 Note that I've got two different grounds:  
