@@ -10,4 +10,3 @@ Quick Links:
 * [Hardware Source (Kicad & Gerber)](https://github.com/gsalaman/ps_discord_audio/tree/main/audio_quad_minimal)
 * User's Guide (in progress)
 * Project Presentation (in progress)
-* Lessons Learned (in progress)
