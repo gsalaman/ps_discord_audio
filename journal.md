@@ -103,21 +103,23 @@ Now I just need the boards to come back...
 JLCPCB build complete...boards on their way back to me.
 
 # 4/21/21
-Got the boards back from JLCPCB!!!  First assembly pics:
+Got the boards back from JLCPCB!!!  Assembly pics below.
 
-The board:
+### The board:
 ![image](https://user-images.githubusercontent.com/43499190/129492856-9f4f2acf-d090-43e7-8322-fa1b654f796a.png)
 
-The other components:
+### The other components:
 ![image](https://user-images.githubusercontent.com/43499190/129492897-9d98392c-cfc7-423a-904b-9a246235f63f.png)
+
 Note that the rocker switch for the mute is already in the case...I did a test fit, as this one "snaps in".  Made soldering it a little more challenging...more on that below.
 
-Here's the ghost, assembled.  
+### The ghost:  
 ![image](https://user-images.githubusercontent.com/43499190/129492932-4366bc5d-5247-4945-b553-ab6f11d51835.png)
 I used a black sharpie to "darken" the eye.
 
 I used 5 minute epoxy to glue it all together...I'm gonna want to tweak the eye size (make it bigger) and "shield" size (make it even bigger) to make everything fit well.
 
+### TRRS Jacks
 The TRRS jacks were tricky.  They've got a 1-4 number on each pin, corresponding to which of the Tip/Ring/Shield they're connected to.  You'd think that 1 would be tip, 2 the next ring, 3 the next, and 4 shield....but no!  Here's the actual pinout:
 | pin | name | color | 
 |-----|-----|-----|
@@ -141,7 +143,8 @@ Soldering the wires onto the pins without them shorting is tricky...I found it b
 
 ![image](https://user-images.githubusercontent.com/43499190/129493232-c5667de3-2945-4fe6-9cdd-78e4e8f85a55.png)
 
-Do through-hole soldering for the mixing and pull-up resistor, and solder on the 3 jacks:
+### Board Front
+Do through-hole soldering for the mixing and pull-up resistors, and solder on the 3 jacks:
 
 ![image](https://user-images.githubusercontent.com/43499190/129493284-4464afe5-22ff-4678-a504-fafd1ac3e955.png)
 
@@ -151,10 +154,12 @@ LED board and power switch go on next...some of those wires are under the batter
 
 Note that I've also done 4 wires on the two poles of the mute switch...a little tricky to get into the case to hit these.  Next time, I do that soldering first, then snap the switch into place.
 
+### Board Back
 Then do the battery holder and socket for the ATTINY on the other side.
 
 ![image](https://user-images.githubusercontent.com/43499190/129493322-1d48dae7-3958-40ec-852d-c74bce6f122f.png)
 
+### Last Steps
 Next, test fit the board into the case.  Get the bends for all the wires about right...and then you can solder on the other side of the mute switch.
 
 Do a "final positioning" of the LED to make sure it's centered in the diffusing plastic, and then glue the ghost on top of the case.
