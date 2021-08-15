@@ -2,7 +2,7 @@
 This project provides a box that mixes together Audio and Microphone from both Playstation and Discord sources into a single headset. 
 
 Quick Links:
-* [Project Proposal](https://github.com/gsalaman/ps_discord_audio/blob/main/proposal.md)
+* [Project Proposal](https://drive.google.com/drive/folders/1_YLGZNcSOjTjnII3me5xQs_gWvtiInGS?usp=sharing)
 * [Prototyping Notes](https://github.com/gsalaman/ps_discord_audio/blob/main/audio_prototype.md)
 * [Design Document](https://docs.google.com/document/d/1ipFKIDMNCPuamUNVuetQo5jEzDj95vrXEs8RwQP3rsA/edit?usp=sharing)
 * Test plan (in progress)
