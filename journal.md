@@ -71,4 +71,38 @@ Spun a simple case...pics below:
 
 ![image](https://user-images.githubusercontent.com/43499190/129492241-6c5cddb9-f984-414a-bc37-70d06bb38001.png)
 
+# 3/30/21
+Prototype box mailed out to Lamonte!
+
+# 4/2/21
+Tested the box with Lamonte...me on the breadboarded version, him with the prototype via iPhone.
+
+IT WORKED!!!
+
+Now, time to spin the schematic via kicad.
+
+# 4/10/21
+Board spin complete; sent to JLCPCB.
+
+# 4/11/21
+Plastics thoughts:
+* Gotta be able to get to the battery...meaning I want the bottom removable via heat-sets.
+* Need to label the jacks.  In a pinch, I can do the label maker like with Lamonte's board...but I want something a little "better".  Gonna try embossing the letters vertically...I think the uPrint can deal with that.
+* Ideally, I want the "ghost" a different color...meaning a different plastic print.  I'll design it in so that there's a "shelf" on the top for it to fit into....and I need a square hole for the LED board to shine through.
+* For the ghost "eye", I'm just gonna cut a piece of 1/8 wood from the laser cutter (cheaper!) and glue it in place.  If I need it, I'll use a piece of that whiteish LED diffusing acrylic.
+
+# 4/12/21
+Stopped by Dawson:  printed outer shell.  Yellow is the color in the printer.
+
+# 4/13/21
+Shell happy...uPrint in use by others, so I printed the ghost on the Raise3D.  
+
+Now I just need the boards to come back...
+
+# 4/15/21
+JLCPCB build complete...boards on their way back to me.
+
+# 4/21/21
+Got the boards back from JLCPCB!!!  First assembly pics:
+
 
