@@ -212,10 +212,91 @@ More assembly!  Still don't have the cases, but were able to put together a bunc
 
 ![image](https://user-images.githubusercontent.com/43499190/129494496-a74f7128-ea11-4355-90f7-92b2496f3e3c.png)
 
+# 5/28/21
+Tried another print...and had another failure!  Much like the one from the 19th...so it's not infill.  Hmmmm...
+
+# 6/1/21
+Tried another case print with Raise3D brand white just to change a variable...it mostly worked:
+
+![image](https://user-images.githubusercontent.com/43499190/129494917-2abfa627-1749-4c01-b642-e3099a44bd10.png)
+
+A little stringy-ness with the PVA...but the case is mostly smooth.
+
+# 6/4/21
+More print issues!  Tried just doing the ghost with the silky blue, and it stops extruding about half way through.  (second time caused a big jam)
+
+Here's a pic of where one of them failed:
+
+![image](https://user-images.githubusercontent.com/43499190/129494833-c8a2018a-7eff-43d2-9fe6-0905e1944d35.png)
+
+Plan:  do full printer calibration with Chris on monday.
+
+# 6/7/21
+Chris and I are doing a full printer calibration...left-and-right nozzle heights, offsets, build leveling...anything that needs to be done.
+
+Had some challenges:
+* the Z-offset thumbscrew doesn't seem to do anything...there's a pin that goes to a sensor, but changing the thumbscrew doesn't change the pin.  Chris and I did the "coarse adjust" (not recommended) to get everything happy.
+* When doing right nozzle height, it wasn't able to go up  high enough.
+* The silky blue PLA still has the extrude problem...gets part way through the print, then jams.
+
+I put in tickets with Raise3D and MatterHackers.
+
+# 6/8/21
+Matterhackers ticket response was to change temp and flowrate.  Tried that, same effect...material stops extruding.
+
+Raise3D answers:
+* Pin sometimes gets stuck.  Yup...that was it.
+* Played around with heatsink position on right nozzle...got that happy as well.
+
+Can now get the offset prints happy via dual extrude...so hopefully that'll help with the PVA.
+
+# 6/10/21
+Matterhackers had more experiments for me to try....but none of them were happy.  They refunded my $ on the spool.  Raise3D confirmed that matterhackers was having issues.  
+
+Soooooo....I've got Raise3D filament in grey and blue ($35 each) to build out the ghosts.  Not the cool silky-blue, but if it extracts well, I'll deal...
 
 
+# 6/13/21
+Raise3D filament arrived.  And it just works:
+
+![image](https://user-images.githubusercontent.com/43499190/129495089-3362fa6d-c0d5-489f-8cb9-1d8c6d262830.png)
+
+Had some dual extrude thoughts:
+* Instead of using wood for the ghost eye, I can do a blue/black dual extrude to do the whole ghost at once...which will mean I shouldn't have a gap between the eye and ghost
+* I can use dual extrude for the jack labels...and if I'm going that route, I can use that to personalize the cases!!!!
+* This means I need to use PLA as support rather than PVA....but that should be doable.
+
+Ordering black PLA for the eyes...
+
+# 6/17/21
+Notes on support:  0.2 mm offset seems to be about right to make the fillet happy.  However, that makes taking out the jack holes hard...you have to drill them.  I'm okay with that.
+
+# 6/23/21
+Printing ghosts:
+![image](https://user-images.githubusercontent.com/43499190/129495221-8da77b3a-6eec-4d93-a43d-2ff5d0dcf7f6.png)
+
+The harvest:
+![image](https://user-images.githubusercontent.com/43499190/129495232-9a1922fb-c442-4b03-b011-344fe58f7f58.png)
 
 
+# 6/25/21
+Time lapse of Pocket's case:
+https://glennsalaman.smugmug.com/Other/n-FVHJP5/Dawson/i-Tjtmr7S
+
+# 7/09/21
+Finished assembly...here's the final output:
+
+![image](https://user-images.githubusercontent.com/43499190/129495374-bbfd8e8e-f170-4468-a711-72f9c8ebb50a.png)
+
+
+![image](https://user-images.githubusercontent.com/43499190/129495398-ab5ab243-c3f7-4d40-93b9-6dfc556d7ebd.png)
+
+And...in action:
+https://drive.google.com/file/d/1iL1jrGGfeoajQjLoZIwszLVyoZmZPBB2/view?usp=sharing
+
+
+# 7/13/21
+Cases shipped!
 
 
 
