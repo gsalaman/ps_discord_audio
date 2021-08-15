@@ -51,8 +51,24 @@ Picture of the breadboarded circuit:
 ![image](https://user-images.githubusercontent.com/43499190/129491882-0654f6c9-808d-4524-b53c-f12bdc97f64a.png)
 
 
-## Prototype Results:
-* Simple audio mix worked well.  Audio loss was able to be compensated by Discord and PS apps on either side.
-* The gain prototype was cool!  May go this route for a phase 2, but for now, I'm gonna go with the simpler solution.
+Results: worked well.  Audio loss was able to be compensated by Discord and PS apps on either side...but there still was loss.
 
-## Next Step:  Write design document.
+# 3/7/21
+Next iteration: single channel gain stage combining.  Specifically, taking the R channel from two sources (PS and Discord), applying seperate gains (controlled by the two knobs), and then combining the output signal like in the previous experiment.  Picture of the breadboarded prototype:
+![image](https://user-images.githubusercontent.com/43499190/129492040-3f090b2a-572e-473c-9bac-581dabf5c007.png)
+
+Results:  worked fairly well....but going to two channels means circuitry gets a little more complicated...and I'm worried about pops and clicks (got a few just on the breadboard)  
+
+Plan:  I'm gonna shelve this one, and proceed with the simple mix for our product.
+
+# 3/11/21
+Soldered up prototype to send out to Lamonte for iPhone testing:
+![image](https://user-images.githubusercontent.com/43499190/129492160-e8814de0-2c37-4701-bde0-f22fd5ced333.png)
+
+# 3/20/21
+Spun a simple case...pics below:
+![image](https://user-images.githubusercontent.com/43499190/129492234-872ef8e3-7fdd-4971-ab38-52e311f8b740.png)
+
+![image](https://user-images.githubusercontent.com/43499190/129492241-6c5cddb9-f984-414a-bc37-70d06bb38001.png)
+
+
