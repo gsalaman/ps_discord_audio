@@ -105,4 +105,43 @@ JLCPCB build complete...boards on their way back to me.
 # 4/21/21
 Got the boards back from JLCPCB!!!  First assembly pics:
 
+The board:
+![image](https://user-images.githubusercontent.com/43499190/129492856-9f4f2acf-d090-43e7-8322-fa1b654f796a.png)
+
+The other components:
+![image](https://user-images.githubusercontent.com/43499190/129492897-9d98392c-cfc7-423a-904b-9a246235f63f.png)
+Note that the rocker switch for the mute is already in the case...I did a test fit, as this one "snaps in".  Made soldering it a little more challenging...more on that below.
+
+Here's the ghost, assembled.  
+![image](https://user-images.githubusercontent.com/43499190/129492932-4366bc5d-5247-4945-b553-ab6f11d51835.png)
+I used a black sharpie to "darken" the eye.
+
+I used 5 minute epoxy to glue it all together...I'm gonna want to tweak the eye size (make it bigger) and "shield" size (make it even bigger) to make everything fit well.
+
+The TRRS jacks were tricky.  They've got a 1-4 number on each pin, corresponding to which of the Tip/Ring/Shield they're connected to.  You'd think that 1 would be tip, 2 the next ring, 3 the next, and 4 shield....but no!  Here's the actual pinout:
+| pin | name | color | 
+|-----|-----|-----|
+| 2 | L | White |
+| 3 | R | Red |
+| 4 | Gnd | Black |
+| 1 | Mic | Green |
+
+```
+ 2  3  4  1  ___
+ __ __ __ __|
+(__|__|__|__|
+            |___
+            
+```
+Here they are, prior to assembly:
+![image](https://user-images.githubusercontent.com/43499190/129493174-9309836d-1bae-449c-8fda-ace06440c065.png)
+
+Soldering the wires onto the pins without them shorting is tricky...I found it best to bend the wire into a "J", thread it into the jack hole so the wire is in the middle/core, do the soldering, then trim the excess of the J.  That gives you this:
+![image](https://user-images.githubusercontent.com/43499190/129493232-c5667de3-2945-4fe6-9cdd-78e4e8f85a55.png)
+
+
+The final product:
+![image](https://user-images.githubusercontent.com/43499190/129493059-a28e9654-4668-4736-af4b-a14f2844e8ee.png)
+
+
 
