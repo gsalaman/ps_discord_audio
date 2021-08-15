@@ -27,7 +27,6 @@ I'm comfortable with the ATTINY driving an LED and also using a mute switch.  Re
 
 I need to figure out how to mix the audio signals together.  I have two options, listed below.
 
-## Prototype Plan
 ### Simple Audio Mix:  a bunch of 470 ohm resistors
 The easiest solution is to do passive mixing...basically connecting each channel together with resistors.  Looking online, the resisitor value is dependent on the output impedence, and looks like 470 ohm will do the trick for my headphone example.  
 Here is the circuit:
@@ -46,6 +45,11 @@ I'm going to do a bread-boarded prototype with two channels, then summed with th
 Pros:  able to control gain via the knobs on the box rather than going to PS & Discord to seperately tweak the levels.
 
 Cons:  MUCH more complicated.  Requires a bigger battery to drive (9v?).
+
+## Simple Audio Mix Prototype:
+Picture of the breadboarded circuit:
+![image](https://user-images.githubusercontent.com/43499190/129491882-0654f6c9-808d-4524-b53c-f12bdc97f64a.png)
+
 
 ## Prototype Results:
 * Simple audio mix worked well.  Audio loss was able to be compensated by Discord and PS apps on either side.
