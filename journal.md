@@ -1,4 +1,25 @@
-# Prototyping Notes and Plan
+# 3/1/21
+First order of buisness: see how the plugs are wired.  
+
+From the specs, sometimes Shield is GND, sometimes Mic. Gonna need to measure phones (android and apple), PC, and playstation. Just in case, could design in a jumper to route those two.  Diagram below:
+
+```
+ T  R1 R2  S ___
+ __ __ __ __|
+(__|__|__|__|
+            |___
+            
+
+Measured on my Mac and HTC headset:
+------------------ 
+Tip is L audio
+R1  is R audio
+R2 is GND
+S  is Mic
+```
+I'm a little worried that the iPhone is gonna be wired differently, as Apple tends to do things their own way...but the Mac is wired the same as the android phone (and playstation controller), so that's less risk.  Will send a prototype out to Lamonte (who has iPhone) and let him test it.
+
+# 3/4/21
 
 Before I jump into my design, there are some prototyping things I need to do.
 
