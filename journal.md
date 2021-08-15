@@ -134,13 +134,33 @@ The TRRS jacks were tricky.  They've got a 1-4 number on each pin, corresponding
             
 ```
 Here they are, prior to assembly:
+
 ![image](https://user-images.githubusercontent.com/43499190/129493174-9309836d-1bae-449c-8fda-ace06440c065.png)
 
 Soldering the wires onto the pins without them shorting is tricky...I found it best to bend the wire into a "J", thread it into the jack hole so the wire is in the middle/core, do the soldering, then trim the excess of the J.  That gives you this:
+
 ![image](https://user-images.githubusercontent.com/43499190/129493232-c5667de3-2945-4fe6-9cdd-78e4e8f85a55.png)
 
+Do through-hole soldering for the mixing and pull-up resistor, and solder on the 3 jacks:
+
+![image](https://user-images.githubusercontent.com/43499190/129493284-4464afe5-22ff-4678-a504-fafd1ac3e955.png)
+
+LED board and power switch go on next...some of those wires are under the battery holder.  
+
+![image](https://user-images.githubusercontent.com/43499190/129493310-7a7ec8e2-14ed-4127-ba52-cd328a616619.png)
+
+Note that I've also done 4 wires on the two poles of the mute switch...a little tricky to get into the case to hit these.  Next time, I do that soldering first, then snap the switch into place.
+
+Then do the battery holder and socket for the ATTINY on the other side.
+
+![image](https://user-images.githubusercontent.com/43499190/129493322-1d48dae7-3958-40ec-852d-c74bce6f122f.png)
+
+Next, test fit the board into the case.  Get the bends for all the wires about right...and then you can solder on the other side of the mute switch.
+
+Do a "final positioning" of the LED to make sure it's centered in the diffusing plastic, and then glue the ghost on top of the case.
 
 The final product:
+
 ![image](https://user-images.githubusercontent.com/43499190/129493059-a28e9654-4668-4736-af4b-a14f2844e8ee.png)
 
 
