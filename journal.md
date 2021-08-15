@@ -23,7 +23,7 @@ I'm a little worried that the iPhone is gonna be wired differently, as Apple ten
 
 Before I jump into my design, there are some prototyping things I need to do.
 
-I'm comfortable with the ATTINY driving an LED and also using a mute switch.  Ready to go to design on those.
+I'm comfortable with the ATTINY driving an LED and also using a mute switch.  Ready to go to design on those....I'm gonna reuse the same "cycle" code I've previously done for the ATTINY before, and add a second "flashing red" state for mute.  
 
 I need to figure out how to mix the audio signals together.  I have two options, listed below.
 
