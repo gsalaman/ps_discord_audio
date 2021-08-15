@@ -168,5 +168,54 @@ The final product:
 
 ![image](https://user-images.githubusercontent.com/43499190/129493059-a28e9654-4668-4736-af4b-a14f2844e8ee.png)
 
+# 4/27/21
+Today's mission:  Plastics colors!
+
+I'm going to need to print at least 6 more cases for the clan...so that's a fair amount of plastics.
+
+The uPrint is definitly the most solid, dependable printer.  Dawson has Orange, Red, Yellow, and Green...and you can order black.   Trouble here:  the spools are $180 each...a little pricey.
+
+You can get LOADS of colors from Matterhackers for the Raise3d....and they're much cheaper...$20 a spool.  Here's what I'm gonna do:
+* use [grey](https://www.matterhackers.com/store/l/175mm-pla-filament-grey-1-kg/sk/MPL0Q8ZD) for the case
+* There's a cool [silver/blue](https://www.matterhackers.com/store/l/silky-teal-mh-build-series-pla-filament-175mm-1kg/sk/M4042W07) for the ghost.
+
+I'll need support for the case, but the Raise3D can do water-soluable PVA.
+
+# 5/12/21
+Started printing in bulk.  Got one grey top done:
+
+![image](https://user-images.githubusercontent.com/43499190/129494318-81669e6a-0141-4724-936b-555746525f3d.png)
+
+Sizing looks good; ready to go in bulk!
+
+# 5/16/21
+Lara offered to help with assembly...we soldered up a bunch of boards today.  Still waiting for the plastics for full assembly.  Pics below:
+
+![image](https://user-images.githubusercontent.com/43499190/129494419-bc56b650-97c0-4129-b26f-0e197e8b635d.png)
+
+![image](https://user-images.githubusercontent.com/43499190/129494424-a2e46b4d-d7e1-4eac-9833-46a111831642.png)
+
+
+# 5/19/21
+Print failures!!! 
+
+![image](https://user-images.githubusercontent.com/43499190/129494365-f9cf269c-ad9b-490f-9dfc-8e810b0d6697.png)
+
+![image](https://user-images.githubusercontent.com/43499190/129494372-90304f5e-fbef-48eb-a76f-795bbdaa749a.png)
+
+I think its cause I did 50% infill and the layers didn't quite bond.  Gonna try 100% next time...
+
+# 5/21/21
+More assembly!  Still don't have the cases, but were able to put together a bunch more boards.  Pics:
+
+![image](https://user-images.githubusercontent.com/43499190/129494468-3dc9c812-1d6e-4f4a-8ec8-6e5ef2934f98.png)
+
+![image](https://user-images.githubusercontent.com/43499190/129494496-a74f7128-ea11-4355-90f7-92b2496f3e3c.png)
+
+
+
+
+
+
 
 
