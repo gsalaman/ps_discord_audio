@@ -8,5 +8,5 @@ Quick Links:
 * [Test Plan](https://docs.google.com/document/d/1uWEIeDPq-ZtmWTCWSF0HcOkNuqYgmgUuFNPxV6GTQaU/edit?usp=sharing)
 * [Software Source (Arduino)](https://github.com/gsalaman/ps_discord_audio/tree/main/ghost_case_v1)
 * [Hardware Source (Kicad & Gerber)](https://github.com/gsalaman/ps_discord_audio/tree/main/audio_quad_minimal)
-* User's Guide (in progress)
+* [User's Guide](https://docs.google.com/document/d/133C6y8KPKBfXd7hmt4fOLVRxKzTunB-pMatfn9UUioA/edit?usp=sharing)
 * Project Presentation (in progress)
