@@ -9,4 +9,4 @@ Quick Links:
 * [Software Source (Arduino)](https://github.com/gsalaman/ps_discord_audio/tree/main/ghost_case_v1)
 * [Hardware Source (Kicad & Gerber)](https://github.com/gsalaman/ps_discord_audio/tree/main/audio_quad_minimal)
 * [User's Guide](https://docs.google.com/document/d/133C6y8KPKBfXd7hmt4fOLVRxKzTunB-pMatfn9UUioA/edit?usp=sharing)
-* Project Presentation (in progress)
+* [Project Presentation](https://docs.google.com/presentation/d/1Z-V4jjkeFAulbqQNvLp17moSJGjj3tiSwEFrkb0hboE/edit?usp=sharing)
