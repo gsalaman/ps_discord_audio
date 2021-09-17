@@ -3,6 +3,7 @@ This project provides a box that mixes together Audio and Microphone from both P
 
 Quick Links:
 * [Project Proposal](https://docs.google.com/document/d/1kymvg32hHtV9tEDY5p4hLi2L7wjIxDkjKmbJ4Tb4wR8/edit?usp=sharing)
+* [Schedule](https://docs.google.com/spreadsheets/d/1bOIFvx7hpu0AlzfgVh9q8kjzmG0GHja3u-9B9gV9Qrc/edit?usp=sharing)
 * [Journal](https://github.com/gsalaman/ps_discord_audio/blob/main/journal.md)
 * [Design Document](https://docs.google.com/document/d/1ipFKIDMNCPuamUNVuetQo5jEzDj95vrXEs8RwQP3rsA/edit?usp=sharing)
 * [Test Plan](https://docs.google.com/document/d/1uWEIeDPq-ZtmWTCWSF0HcOkNuqYgmgUuFNPxV6GTQaU/edit?usp=sharing)
